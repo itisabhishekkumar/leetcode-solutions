@@ -20,7 +20,7 @@ Stop thinking start contributing to leetcode solution
 - [PlusOne](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/PlusOne.java)
 - [MinStack](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/MinStack.java)
 
-### Medium
+#### Medium
 
 - [ValidSudoku](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/ValidSudoku.java)
 - [GroupAnagrams](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/GroupAnagrams.java)
@@ -29,6 +29,6 @@ Stop thinking start contributing to leetcode solution
 - [MaximumProductOfWordLengths](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/MaximumProductOfWordLengths.java)
 - [SummaryRanges](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/SummaryRanges.java)
 
-### Hard
+##### Hard
 
 - [SudokuSolver](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/hard/SudokuSolver.java)
